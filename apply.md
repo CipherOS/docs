@@ -16,4 +16,4 @@ We don't really have a build server (as per for now), but if you really have tro
 
 
 
-If you're ready to tame the beast, PM [Aryan Sinha](https://t.me/techyminati) on Telegram with your device sources. We will get back to you as soon as possible.
+If you're ready to tame the beast, PM [Aryan Sinha](https://t.me/techyminati) or [Jamie](https://t.me/henloboi) on Telegram with your device sources. We will get back to you as soon as possible.
