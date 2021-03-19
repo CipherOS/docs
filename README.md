@@ -8,7 +8,7 @@
 
 - #### Useful documents ####
 
-  CipherOS build flags | Apply for Official | XDA Template | Submitting patches and feature requests 
+  [Apply for Official](https://github.com/CipherOS/docs/blob/eleven/apply.md) | [CipherOS build flags](https://github.com/CipherOS/docs/blobs/eleven/flags.md) | [Submitting patches and feature requests](https://github.com/CipherOS/docs/blob/eleven/patches.md) | [XDA Template](https://github.com/CipherOS/docs/blob/eleven/xda.txt) 
   
 - #### Get in touch #### 
 
