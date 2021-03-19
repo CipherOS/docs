@@ -1,0 +1,58 @@
+[IMG]https://raw.githubusercontent.com/CipherOS/Documentation/master/.github/banner.png[/IMG]
+[CENTER]
+CipherOS is a Android Custom OS, Based On AOSP & Fueled by Lineage, Striving to Provide its Users , A Clean , Bloat free & Sturdy Experience with Minimal Customisation ! 
+
+[CODE]/* Your warranty is now void or maybe not?
+*
+* I am not responsible for bricked devices, dead SD cards,
+* thermonuclear war, or you getting fired because the alarm app failed. Please
+* do some research if you have any concerns about features included in this ROM
+* before flashing it! YOU are choosing to make these modifications, and if
+* you point the finger at me for messing up your device, I will laugh at you.
+*/[/CODE]
+
+With the release of CipherOS INFERNO , We Ensure that Every OFFICIAL Device remains Up-to-date with latest Patches , Asap its been released by Google !
+
+[SIZE=6][B]Download it from [/B][/SIZE][URL='https://cipheros.github.io'][SIZE=6][B]Our Website![/B][/SIZE][/URL]
+
+[IMG]https://raw.githubusercontent.com/CipherOS/Documentation/master/art/team.png[/IMG][/CENTER]
+The people working towards bringing you this release are:
+[LIST]
+[*][URL='https://github.com/techyminati']Aryan Sinha[/URL] 
+[*][URL='https://github.com/radeon7']Lokesh Vazirani[/URL]
+[*][URL='https://github.com/CyberJalagam']Jaishanav Prasad[/URL]
+[*][URL='https://github.com/SparXFusion']Sakthivel Nadar[/URL]
+[*][URL='https://github.com/JamieHoSzeYui']Jamie Ho[/URL]
+[*][URL='https://github.com/bhenom69']Bhenom[/URL]
+[/LIST]
+[IMG]https://raw.githubusercontent.com/CipherOS/Documentation/master/art/installation.png[/IMG]
+
+
+[B]1.[/B] Download the ROM, Magisk (Optional).
+[B]2.[/B] Wipe System, Data, Dalvik, Cache.
+[B]3.[/B] Flash the ROM, GApps (Optional), Magisk (Optional).
+[B]4.[/B] Reboot and Enjoy.
+
+[B]GAPPS ARE PREINCLUDED[/B]
+
+[IMG]https://raw.githubusercontent.com/CipherOS/Documentation/master/art/credits.png[/IMG]
+
+We would like to thank the following ROMs, because if they weren't here, we couldn't be there too <3
+[LIST]
+[*][URL='https://github.com/LineageOS'][B]LineageOS[/B][/URL]
+[*][URL='https://github.com/ProjectSakura'][B]ProjectSakura[/B][/URL]
+[*][URL='https://github.com/POSP'][B]POSP[/B][/URL]
+[*][URL='https://github.com/SuperiorOS'][B]SuperiorOS[/B][/URL]
+[*][URL='https://github.com/PixelExperience'][B]Pixel Experience[/B][/URL]
+[*][URL='https://github.com/Styx-Project'][B]The Styx Project[/B][/URL]
+[*][URL='https://github.com/Fusion-OS'][B]Fusion OS[/B][/URL]
+[/LIST]
+
+
+[CENTER][SIZE=6]Source Code:[/SIZE]
+[SIZE=4][URL='https://github.com/CipherOS']ROM Source[/URL]
+[URL='https://github.com/CipherOS-Devices']Device Source[/URL]
+[URL='your kernel source link here']Kernel Source[/URL][/SIZE][/CENTER]
+
+[CENTER][SIZE=6]Donate:[/SIZE]
+[SIZE=4][URL='https://paypal.me/aspltd']PayPal[/URL][/SIZE][/CENTER]
