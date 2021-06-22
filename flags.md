@@ -6,6 +6,8 @@
 
 - If your device supports Face unlock, use `TARGET_FACE_UNLOCK_SUPPORTED := true`
 - If you want to build with Gapps, use `CIPHER_GAPPS := true`
+- If you want to Enable AOSP Blur, use `TARGET_USES_BLUR := true`
+- 
 
 #### system.prop: ####
 
